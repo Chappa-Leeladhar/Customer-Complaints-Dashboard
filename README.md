@@ -20,7 +20,11 @@ events)a spike this size is usually traceable to a specific cause.
 * **Recommendation**: Prioritize root-cause analysis on Savings Account specifically rather than 
 treating all products equally this is where the biggest opportunity to reduce complaints is.
 * **How many complainants got timely response for their complaints?**: It is found that 96% of the complainants got timely response from the company.
+* **Recommendation**: Strong overall, but the real opportunity is the remaining 4% these are 
+likely the highest-risk cases for escalation or churn. Recommend tracking that group separately rather than only reporting the aggregate success rate.
 * **In which portal most number of complaints have been logged?**: It is found that most number of complaints have been submitted through the web portal i.e.., 72.6%/45418.
+* **Recommendation**: Prioritize support staffing and process improvements for the web channel 
+first, since that's where the bulk of volume is concentrated.
 
 ---
 ## Data Cleaning and Pre Processing Steps
