@@ -13,16 +13,16 @@ are meeting expectations — so the support team knows where to focus.
 
 ---
 ## Key Insights
-* **Year with the highest number of complaints submitted/received and the year with the lowest number of complaints submitted/received**: It is found that in the year 2022 the highest number of complaints have been submitted/received while in year 2017 lowest number of complaints have been submitted/received.
+1. **Year with the highest number of complaints submitted/received and the year with the lowest number of complaints submitted/received**: It is found that in the year 2022 the highest number of complaints have been submitted/received while in year 2017 lowest number of complaints have been submitted/received.
 * **Recommendation**: Investigate what changed in 2022 (product changes, policy shifts, external 
 events)a spike this size is usually traceable to a specific cause.
-* **Which product received most complaints over the years**: It is found that the product "Savings Account" had received most number of complaints over the years, 53.2% more than the second placed product "Credit Card".
+2. **Which product received most complaints over the years**: It is found that the product "Savings Account" had received most number of complaints over the years, 53.2% more than the second placed product "Credit Card".
 * **Recommendation**: Prioritize root-cause analysis on Savings Account specifically rather than 
 treating all products equally this is where the biggest opportunity to reduce complaints is.
-* **How many complainants got timely response for their complaints?**: It is found that 96% of the complainants got timely response from the company.
+3. **How many complainants got timely response for their complaints?**: It is found that 96% of the complainants got timely response from the company.
 * **Recommendation**: Strong overall, but the real opportunity is the remaining 4% these are 
 likely the highest-risk cases for escalation or churn. Recommend tracking that group separately rather than only reporting the aggregate success rate.
-* **In which portal most number of complaints have been logged?**: It is found that most number of complaints have been submitted through the web portal i.e.., 72.6%/45418.
+4. **In which portal most number of complaints have been logged?**: It is found that most number of complaints have been submitted through the web portal i.e.., 72.6%/45418.
 * **Recommendation**: Prioritize support staffing and process improvements for the web channel 
 first, since that's where the bulk of volume is concentrated.
 
